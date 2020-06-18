@@ -91,7 +91,7 @@ sections:
     title: Our Crew!
     background_style: bg-info text-white
     members:
-      - title: Christina M. Aponte
+      - title: Takashi Yoshioka
         text: Singer and Songwriter
         image: assets/img/members/person1.jpg
         url: '#'
@@ -152,11 +152,11 @@ sections:
     - title: Twitter
       icon: fa-twitter
       icon_type: fab
-      url: '#'
+      url: 'https://www.twitter.com/takagotch'
     - title: Facebook
       icon: fa-facebook
       icon_type: fab
-      url: '#'
+      url: 'https://www.facebook.com/pg/tkgcci/posts/?ref=page_internal'
 
 ---
 
