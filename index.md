@@ -1,12 +1,11 @@
 ---
 layout: home
 header:
-  title: Your Favorite Source of Free Bootstrap Themes
+  title: Landing page!
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    月収50万円超え!?
   action: # action button is optional
-    label: Find Out More
+    label: Mustard out More
     url: '#about'
 
 
